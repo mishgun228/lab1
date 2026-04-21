@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Raykov Andreevichhhh
-=======
-Raykov Andree
->>>>>>> newdev
+Raykov Andreev
+
